@@ -60,7 +60,7 @@ In step 3, the following actions were taken on "DC-1":
 
 Installation of Active Directory Domain Services (AD DS): You logged into "DC-1" and installed Active Directory Domain Services.
 
-Promotion as a Domain Controller: "DC-1" was promoted to a Domain Controller, and a new forest was established with the domain name "mydomain.com."
+"DC-1" was promoted to a Domain Controller, and a new forest was established with the domain name "mydomain.com."
 
 Restart Remote Desktop: After the promotion, the Remote Desktop connection was restarted.
 
